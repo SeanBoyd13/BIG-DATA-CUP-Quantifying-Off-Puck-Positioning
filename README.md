@@ -1,4 +1,6 @@
-# BIG_DATA_CUP_Quantifying_Off_Puck_Positioning
+# Big Data Cup 2025 Submission
+# Player Movement:
+# Quantifying_Off_Puck_Positioning
 Quantifying Off-Puck Player Positioning: A Physics-Driven Model Using Voronoi Tessellations (Submission for the Big Data Cup 2025)
 
 ## Project Details
