@@ -5,10 +5,6 @@ Quantifying Off-Puck Player Positioning: A Physics-Driven Model Using Voronoi Te
 This project evaluates players' off-puck offensive and defensive positioning using player and puck tracking data made accessible by Stathletes as part of the Big Data Cup 2025.
 
 ## Contents
-- **Paper (PDF):** Detailed explanation of the approach, findings, and future work.
+- **Paper (PDF):** Detailed explanation of the approach, findings, analysis, and future work.
 - **Code (Colab):** Python notebook to compute the metric from tracked game data.
 - **Data (CSV):** Collected metrics for each of the three provided games.
-
-## Getting Started
-- Download the `code/` folder and run the Colab notebook with the `data/` files to replicate the analysis.
-- Refer to the `docs/project_overview.pdf` for detailed insights.
